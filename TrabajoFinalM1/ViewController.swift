@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  TrabajoFinalM1
 //
-//  Created by Jorge Luis Limo Arispe on 18/02/17.
-//  Copyright © 2017 Jorge Limo Arispe. All rights reserved.
+//  Created by Rocío Córdova on 18/02/17.
+//  Copyright © 2017 Rocío Córdova. All rights reserved.
 //
 
 import UIKit
